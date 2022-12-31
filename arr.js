@@ -77,3 +77,7 @@ console.log(my);
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.splice(2, 0, "Lemon", "Kiwi");
 console.log(fruits);
+
+const ab = ["Banana", "Orange", "Apple", "Mango"];
+ab.sort();
+console.log(ab);
